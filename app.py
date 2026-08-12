@@ -88,6 +88,6 @@ elif selected == "Tentang":
 
 st.markdown("""
 <div class="footer">
-    © 2026 | Developed by Firmansyah Taufiqur Rahman
+    © 2026 | Developed by Firmansyah Rizki Kusuma, Dr. Suprianto, S.Si., M.Si., Hamzah Setiawan, S.Kom., M.Kom., Dr. Uce Indahyanti., S.Kom., M.Kom.
 </div>
 """, unsafe_allow_html=True)
